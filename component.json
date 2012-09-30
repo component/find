@@ -1,0 +1,11 @@
+{
+  "name": "find",
+  "repo": "component/find",
+  "description": "Array find first value utility",
+  "version": "0.0.1",
+  "keywords": ["array", "find", "utility"],
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}
