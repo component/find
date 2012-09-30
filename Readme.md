@@ -17,7 +17,17 @@
 var tobi = find(users, function(u){ return u.name == 'Tobi' });
 ```
 
+### find(array, string)
+
+  Find with property strings:
+
+```js
+find(users, 'admin');
+```
+
 ### find(array, object)
+
+  Find with object value matching:
 
 ```js
 var users = [];
