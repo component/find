@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "keywords": ["array", "find", "utility"],
   "dependencies": {
-    "component/to-function": "*"
+    "to-function": "https://github.com/component/to-function/tarball/master"
   },
   "development": {},
   "component": {
