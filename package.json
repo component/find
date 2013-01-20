@@ -4,12 +4,6 @@
   "version": "0.0.1",
   "keywords": ["array", "find", "utility"],
   "dependencies": {
-    "component/to-function": "*"
-  },
-  "development": {},
-  "component": {
-    "scripts": {
-      "find/index.js": "index.js"
-    }
+    "to-function": "https://github.com/component/to-function/tarball/master"
   }
 }
