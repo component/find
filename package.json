@@ -2,7 +2,11 @@
   "name": "find",
   "description": "Array find first value utility",
   "version": "0.0.1",
-  "keywords": ["array", "find", "utility"],
+  "keywords": [
+    "array",
+    "find",
+    "utility"
+  ],
   "dependencies": {
     "to-function": "https://github.com/component/to-function/tarball/master"
   },
@@ -11,5 +15,9 @@
     "scripts": {
       "find/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/find.git"
   }
 }
