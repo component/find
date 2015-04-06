@@ -3,6 +3,7 @@
   "repo": "component/find",
   "description": "Array find first value utility",
   "version": "0.0.1",
+  "license": "MIT",
   "keywords": ["array", "find", "utility"],
   "dependencies": {
     "component/to-function": "*"
