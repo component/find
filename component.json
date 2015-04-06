@@ -6,7 +6,7 @@
   "license": "MIT",
   "keywords": ["array", "find", "utility"],
   "dependencies": {
-    "component/to-function": "*"
+    "component/to-function": "2.0.6"
   },
   "development": {},
   "scripts": [
